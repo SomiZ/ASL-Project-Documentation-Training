@@ -1,24 +1,29 @@
 
-# ASL Project: Technical Documentation & Training Resources
+# AbiliTech ASL Project: Documentation & Training Resources
 
-This repository contains the documentation, evaluation reports, and educational materials created for the **AbiliTech ASL Translation Project**.
+**Role:** Data Analyst Intern | **Focus:** Technical Documentation, Data Validation, & Team Training
 
 ## 📂 Project Overview
-My role involved bridging the gap between technical complexity and user adoption by creating:
-- **Technical Documentation:** Standardizing workflows for AI/LLM validation.
-- **Training Materials:** 8 educational assets (Videos/Infographics) to train the annotation team.
-- **Evaluation Reports:** Assessing the quality of LLM outputs.
+This repository showcases the technical documentation and educational materials I developed for the **AbiliTech ASL Translation Project**. My primary goal was to bridge the gap between technical LLM outputs and human annotators by standardizing workflows and creating a comprehensive knowledge base.
 
-## 📄 Documentation Included
-1. **Technical Manuals:** Detailed guides on ASL grammar rules and architecture.
-2. **Validation Plan:** Step-by-step process for data cleaning.
-3. **Evaluation Report:** Performance metrics of the initial LLM tests.
+## 📄 Technical Documentation
+*The following documents were created to define grammar rules and validation protocols:*
+- **[Full Technical Documentation & Evaluation](./Full_Technical_Documentation_And_Evaluation.pdf):** A merged document containing the ASL architecture guide, validation plan, and model evaluation reports.
 
-## 🎓 Training Assets
-- **Infographics:** Visual guides for quick reference.
-- **Video Tutorials:** Walkthroughs of the annotation platform.
-- **Study Guide:** Easy to learn report
-- **Conceptual break_down:** Step by step learing document
+## 🎥 Training Video Tutorials
+I produced 8 video tutorials to train the team on the annotation platform and ASL linguistics. 
+*Due to file size limits, these videos are hosted on Google Drive:*
+
+| Video Topic / Title | Watch Link |
+| :--- | :--- |
+| **1. ASL Architecture Overview** | [Click to Watch](https://drive.google.com/file/d/1D7u5kfSBYV7DKMz2lGiyTbvfGXmI-lTe/view)) |
+| **2. AI for ASL** | [Click to Watch](https://drive.google.com/file/d/1Ql-uuCEAlGVmbKHElVtf6nYHKF_KbJnU/view?usp=sharing) |
+
+
+> **⚠️ Note on Access:** These videos are hosted on a shared drive. If you experience access issues, please request permission or contact me directly.
 
 ---
-*Note: Sensitive proprietary data has been redacted from these documents.*
+### 🛠 Tools & Skills Used
+* **Documentation:** Technical Writing, Process Standardization
+* **Training:** Video Creation, Instructional Design
+* **Domain:** American Sign Language (ASL), LLM Validation
